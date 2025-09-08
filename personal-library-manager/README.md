@@ -44,7 +44,7 @@ Create a **command-line Personal Library Manager** that allows users to manage t
 
 ### Optional Challenge (File Handling)
 
-1.  **Save Library to a File**: Save the library data to a file (e.g., `library.txt`) when the program exits.
+1.  **Save Library to a File**: Save the library data to a file (e.g., `library.txt` or `books_data.json`) when the program exits.
 2.  **Load Library from a File**: Load the library data from the file when the program starts.
 
 ----------
